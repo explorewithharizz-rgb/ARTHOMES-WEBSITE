@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#f8f5f0"/>
+  <rect x="1" y="1" width="62" height="62" rx="13" stroke="#e6e0d6" stroke-width="2"/>
+  <!-- Material Moodboard Palette -->
+  <path d="M16 26C16 19.3726 21.3726 14 28 14H36C42.6274 14 48 19.3726 48 26V38C48 44.6274 42.6274 50 36 50H28C21.3726 50 16 44.6274 16 38V26Z" fill="#ffffff" stroke="#211914" stroke-width="2"/>
+  <!-- Designer Swatches -->
+  <circle cx="25" cy="24" r="5" fill="#a77851"/>
+  <circle cx="39" cy="24" r="5" fill="#211914"/>
+  <circle cx="25" cy="40" r="5" fill="#d4b294"/>
+  <circle cx="39" cy="40" r="5" fill="#88603e"/>
+  <!-- Central design compass / spark -->
+  <path d="M32 29L33.5 32L36.5 33.5L33.5 35L32 38L30.5 35L27.5 33.5L30.5 32L32 29Z" fill="#a77851"/>
+</svg>

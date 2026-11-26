@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#f8f5f0"/>
+  <rect x="1" y="1" width="62" height="62" rx="13" stroke="#e6e0d6" stroke-width="2"/>
+  <!-- Carpentry / Craft Tools -->
+  <!-- Hammer -->
+  <path d="M22 26L38 42L35 45L19 29L22 26Z" fill="#a77851"/>
+  <path d="M26 18L18 26L15 23L19 19L16 16L21 13L24 16L28 15L26 18Z" fill="#211914"/>
+  <!-- Wrench / Square Tool crossed -->
+  <path d="M42 26L26 42L29 45L45 29L42 26Z" fill="#88603e"/>
+  <path d="M41 18C42.5 16 45 15 47 17C49 19 48 21.5 46 23L43 20L41 18Z" fill="#211914"/>
+  <!-- Motion / Craft Sparks -->
+  <circle cx="32" cy="18" r="2" fill="#a77851"/>
+  <circle cx="48" cy="34" r="2" fill="#a77851"/>
+</svg>

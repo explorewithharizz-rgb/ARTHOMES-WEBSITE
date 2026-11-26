@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#f8f5f0"/>
+  <rect x="1" y="1" width="62" height="62" rx="13" stroke="#e6e0d6" stroke-width="2"/>
+  <!-- Floor Plan Blueprint Map -->
+  <rect x="15" y="15" width="34" height="34" rx="4" fill="#ffffff" stroke="#211914" stroke-width="2"/>
+  <path d="M15 26H28V15" stroke="#211914" stroke-width="2"/>
+  <path d="M36 49V37H49" stroke="#211914" stroke-width="2"/>
+  <path d="M28 26V37H36" stroke="#a77851" stroke-width="2" stroke-dasharray="2 2"/>
+  <!-- Architect Ruler / Compass -->
+  <path d="M44 14L49 19L24 44L19 39L44 14Z" fill="#a77851"/>
+  <line x1="28" y1="35" x2="30" y2="33" stroke="#ffffff" stroke-width="1.5"/>
+  <line x1="33" y1="30" x2="35" y2="28" stroke="#ffffff" stroke-width="1.5"/>
+  <line x1="38" y1="25" x2="40" y2="23" stroke="#ffffff" stroke-width="1.5"/>
+  <line x1="43" y1="20" x2="45" y2="18" stroke="#ffffff" stroke-width="1.5"/>
+</svg>

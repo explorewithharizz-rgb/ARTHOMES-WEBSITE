@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#f8f5f0"/>
+  <rect x="1" y="1" width="62" height="62" rx="13" stroke="#e6e0d6" stroke-width="2"/>
+  <!-- Clipboard / Agreement Document -->
+  <rect x="17" y="16" width="30" height="36" rx="4" fill="#ffffff" stroke="#211914" stroke-width="2"/>
+  <!-- Clip -->
+  <path d="M26 14C26 12.8954 26.8954 12 28 12H36C37.1046 12 38 12.8954 38 14V16H26V14Z" fill="#211914"/>
+  <!-- Agreement Lines -->
+  <line x1="23" y1="24" x2="33" y2="24" stroke="#e2ddd5" stroke-width="2" stroke-linecap="round"/>
+  <line x1="23" y1="30" x2="41" y2="30" stroke="#e2ddd5" stroke-width="2" stroke-linecap="round"/>
+  <line x1="23" y1="36" x2="31" y2="36" stroke="#e2ddd5" stroke-width="2" stroke-linecap="round"/>
+  <!-- Approved Stamp / Green Check Badge -->
+  <circle cx="39" cy="41" r="10" fill="#2e7d32"/>
+  <path d="M34.5 41L37.5 44L43.5 38" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

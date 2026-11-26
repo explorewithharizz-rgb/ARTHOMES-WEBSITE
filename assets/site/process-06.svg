@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#f8f5f0"/>
+  <rect x="1" y="1" width="62" height="62" rx="13" stroke="#e6e0d6" stroke-width="2"/>
+  <!-- New House / Welcoming Doorway -->
+  <path d="M16 34L32 20L48 34V48C48 49.1046 47.1046 50 46 50H18C16.8954 50 16 49.1046 16 48V34Z" fill="#ffffff" stroke="#211914" stroke-width="2"/>
+  <!-- Welcoming Open Door -->
+  <rect x="27" y="34" width="10" height="16" fill="#a77851"/>
+  <!-- Handover Key Badge -->
+  <circle cx="43" cy="23" r="8" fill="#d4af37"/>
+  <circle cx="43" cy="23" r="4" fill="#f8f5f0"/>
+  <path d="M47 27L53 33M50 30L52 28" stroke="#d4af37" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Sparkles of celebration -->
+  <path d="M22 23L23 25L25 26L23 27L22 29L21 27L19 26L21 25L22 23Z" fill="#a77851"/>
+</svg>
